@@ -124,9 +124,8 @@ function displayPopup(type: 'review' | 'announce', showIcon = false) {
 	}
 
 	if (type === 'review') {
-		desc.textContent = tradThis(REVIEW_TEXT)
-		buttons.appendChild(createPopupButton(REVIEW_URLS[BROWSER], tradThis('Review')))
-		buttons.appendChild(createPopupButton('https://ko-fi.com/bonjourr', tradThis('Donate')))
+		// Removes the review popup.
+		return
 	}
 
 	if (type === 'announce') {
