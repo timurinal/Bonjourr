@@ -1,3 +1,7 @@
+None of this is made by me. I have made the simple change of removing the annoying "Enjoy using? Consider donating" popup. All source code is made by [victrme](https://github.com/victrme/)
+
+
+
 <h1 align="center">
   <a href="https://bonjourr.fr">
     <img src="https://raw.githubusercontent.com/victrme/Bonjourr/master/src/assets/bonjourr.png" width="50%" alt="Bonjourr's website">
